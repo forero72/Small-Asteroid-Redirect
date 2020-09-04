@@ -1,0 +1,26 @@
+N.A.S.A. Space APPS Challenge october - 2020
+Project name: Small asteroid redirect system
+Proposal presented by: Alejandro Forero
+
+In this example, we will use a small Asteroid that will approach the earth and we only have about 30 days to solve the problem. (We could use examples like the asteroid 2011-ES4 or the asteroid 2001-GP2,  whose diameters are less than 50 meters)
+
+Normally we have 3 options to solve this type of situation:
+1- Do nothing !.
+2- Eliminate it with some kind of missile.
+3- Capture it and redirect it for future mining.
+
+*So far we have only used the first option which is pathetic and embarrassing...
+
+*The second option is not at all viable, since when destroying an asteroid in the direction of the earth, the subsequent "shrapnel" caused by the destruction of the asteroid could destroy many satellites in orbit and even the International Space Station.
+
+*The third option is the one that we must develop in a more energetic way, since a large amount of mineral resources of great value pass near us without being able to take advantage of them.
+In this initiative, I propose to you my idea of capturing an asteroid using the Mean - Octopus System, to capture and redirect a small asteroid and put it in a safe orbit at a safe distance from the Earth.
+
+The Mean-Octopus System is made up of a canvas (whose shape and size will be designed for the different objectives that you want to capture) and will be made of extremely strong and light materials that can withstand all the inclemency that the space environment has.
+Attached to this canvas will be the "Multi-Directional Space Jetpack", there are eight in total and they work in pairs (normally the top four are the counterpart of the bottom four).
+These Multi-Directional Space Jetpack, is remotely directed so that they hook and secure the object to be captured, ... once captured, the cable that joins them to the canvas is wound by an internal winch so that the load remains attached to the canvas.
+
+"Electrodynamic Tethers", whose length must be previously calculated based on the size and mass of the object to be moved... (In this example we have only used four, but normally eight are used).
+Shortly before this asteroid is about to pass the orbit of the Moon... it will deploy the Electrodinamic Tethers, so that in this way, as it gets closer to Earth, the magnetic field begins to reduce and redirect this asteroid, creating a series of hyperbolas around the Earth which will slow down the asteroid and help its future location preferably geostationary at a safe distance from Earth...
+
+Once all this has been achieved, then one could move on to the next stage of awarding the mining concession to a private company for the exploitation of rare minerals.
